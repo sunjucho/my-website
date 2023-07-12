@@ -1,7 +1,7 @@
 ---
 slug: sunju-blog-post
 title: Sunju-Blog-Post
-authors: sunju-cho
+# authors: sunju-cho
 tags: [hello]
 ---
 
